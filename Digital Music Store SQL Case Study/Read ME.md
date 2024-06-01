@@ -1,7 +1,5 @@
----
-title: |
-  Digital Music Store SQL Case Study
----
+## Digital Music Store SQL Case Study
+
 
 > Description
 >
