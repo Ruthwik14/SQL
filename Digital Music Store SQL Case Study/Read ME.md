@@ -8,13 +8,9 @@
 > popular artists and tracks, to inform marketing strategies, inventory
 > management decisions, and customer engagement initiatives.
 
-# 
+# Q1. Who is the senior most employee based on job title?
 
-Q1. Who is the senior most employee based on job title?
-
-## SELECT \*
-
-> FROM employee ORDER BY levels DESC LIMIT 1;
+SELECT * FROM employee ORDER BY levels DESC LIMIT 1;
 
 <table>
 <colgroup>
